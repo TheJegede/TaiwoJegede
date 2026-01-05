@@ -1,117 +1,418 @@
-# Hi there, I'm Taiwo Jegede 👋
+# Hi 👋, I'm Taiwo Jegede
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Tech+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm **Taiwo Jegede**, a passionate software developer focused on building innovative solutions and creating impactful digital experiences. I love exploring new technologies, contributing to open-source projects, and solving complex problems with clean, efficient code.
-
-- 🔭 I'm currently working on building scalable web applications and exploring cloud technologies
-- 🌱 I'm continuously learning modern development practices, DevOps, and system design
-- 👯 I'm looking to collaborate on open-source projects and innovative tech solutions
-- 💬 Ask me about web development, software architecture, and best coding practices
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I believe great code is like poetry - elegant, efficient, and expressive
-
-## 🛠️ Tech Stack & Skills
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheJegede&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJegede&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJegede&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheJegede&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheJegede&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 💼 What I Do
-
-- **Full Stack Development:** Building end-to-end web applications with modern frameworks and best practices
-- **Backend Engineering:** Designing robust APIs, microservices, and scalable server architectures
-- **Frontend Development:** Creating responsive, intuitive user interfaces with attention to UX/UI
-- **DevOps & Cloud:** Deploying and managing applications on cloud platforms with CI/CD pipelines
-- **Open Source:** Contributing to community projects and sharing knowledge with fellow developers
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## 💡 Featured Projects
-
-### [Project Name 1](https://github.com/TheJegede/project1)
-🚀 **Description:** A comprehensive web application built with React and Node.js that solves [specific problem]. Features include real-time updates, user authentication, and responsive design.
-- **Tech:** React, Node.js, MongoDB, Socket.io
-
-### [Project Name 2](https://github.com/TheJegede/project2)
-⚡ **Description:** An innovative REST API service that provides [specific functionality]. Implements best practices in API design, security, and performance optimization.
-- **Tech:** Python, Django, PostgreSQL, Docker
-
-### [Project Name 3](https://github.com/TheJegede/project3)
-🎨 **Description:** A modern portfolio website showcasing creative projects with smooth animations and interactive elements.
-- **Tech:** Next.js, TypeScript, Tailwind CSS
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheJegede&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI+%26+ML+Engineer;Certified+Cloud+Computing+Specialist;NLP+%26+GenAI+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-### 💙 Thanks for visiting!
+[![GitHub followers](https://img.shields.io/github/followers/TheJegede?style=social)](https://github.com/TheJegede)
+[![Profile Views](https://komarev.com/ghpvc/?username=TheJegede&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/TheJegede)
 
-I'm always open to interesting conversations and collaboration opportunities.
-Feel free to explore my repositories and don't hesitate to reach out!
+</div>
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+---
+
+## 👨‍💻 About Me
+
+I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Engineer**, and **Certified Cloud Computing Specialist** with hands-on experience in building intelligent systems, analyzing complex datasets, and deploying scalable cloud solutions. I specialize in Natural Language Processing, Supply Chain AI agents, and Healthcare Data Analytics.
+
+- 🔭 **Currently Working On**: An Image Captioning System for the Yoruba Language and refining AI agents for negotiation and study assistance
+- 🌱 **Currently Learning**: AWS Bedrock (GenAI and Fine-Tuning), Advanced AWS Cloud Architectures (building on my experience at AWS re:Invent 2025), and Generative AI deployment
+- 👯 **Looking to Collaborate On**: Open-source NLP projects, Data Visualization dashboards (Tableau/Power BI), and innovative Supply Chain simulations
+- 🤝 **Seeking Help With**: Optimizing serverless deployments using AWS Lambda and Bedrock for scalable AI solutions
+- 💬 **Ask Me About**: Data Analysis (Python, SQL), Machine Learning, Natural Language Processing (NLP), Software Project Management, Supply Chain Logistics, and Healthcare Data Management
+- 📫 **Reach Me**:  [jegedetaiwo95@gmail.com](mailto:jegedetaiwo95@gmail. com)
+- ⚡ **Fun Fact**: I believe great code is like poetry - elegant, efficient, and expressive
+
+---
+
+## 🎯 Core Competencies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+- Natural Language Processing
+- Deep Learning (RNN, LSTM, GRU)
+- Sentiment Analysis & Text Classification
+- Named Entity Recognition
+- Topic Modeling & Clustering
+- GenAI & LLM Integration
+- AI Agent Development
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Analysis & Engineering
+- Exploratory Data Analysis
+- Statistical Modeling & Regression
+- Data Visualization (Power BI, Tableau)
+- SQL & Database Management
+- R Programming for Advanced Analytics
+- Healthcare Data Analytics
+- Supply Chain Analytics
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+- AWS (Lambda, Amplify, Bedrock)
+- Azure & GCP
+- Serverless Architecture
+- CI/CD Pipelines
+- Docker & Containerization
+- AWS re:Invent 2025 Attendee
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Development
+- Python (Django, Flask, FastAPI)
+- JavaScript/TypeScript
+- Web Development (HTML, CSS)
+- REST API Development
+- Full Stack Development
+- Version Control (Git/GitHub)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills Dashboard
+
+### Programming Languages
+<div align="center">
+
+| Language | Proficiency | Experience |
+|----------|-------------|------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ████████████████████ 95% | 4+ years |
+| ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) | ████████████████░░░░ 80% | 2+ years |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ███████████████████░ 90% | 3+ years |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ███████████████░░░░░ 75% | 2+ years |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ██████████████░░░░░░ 70% | 1+ year |
+
+</div>
+
+### AI/ML & Data Science Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00? style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/NLTK-3C6E47?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
+</p>
+
+### Cloud & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+</p>
+
+### Frameworks & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+### Data Visualization & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75? style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [AI Negotiation Agent](https://github.com/TheJegede/TheAINegotiator)
+**An intelligent AI agent designed for supply chain negotiations**
+- 🔹 Built with Python and Streamlit for interactive UI
+- 🔹 Implements strategic negotiation algorithms
+- 🔹 Real-time negotiation simulation and analysis
+- 🔹 **Tech Stack**: Python, Streamlit, NLP, AI Agents
+- 🔹 **Status**: Active Development - Migrating to AWS serverless architecture
+
+### 🔄 [Advanced Negotiation System](https://github.com/TheJegede/Negotiator)
+**Cloud-native negotiation platform with AWS integration**
+- 🔹 Migrating from Streamlit to AWS Lambda + Amplify
+- 🔹 FastAPI backend for RESTful services
+- 🔹 Serverless architecture for scalability
+- 🔹 **Tech Stack**: Python, FastAPI, AWS Lambda, AWS Amplify, JavaScript
+- 🔹 **Highlights**: Comprehensive deployment documentation, CI/CD pipeline ready
+
+### 📚 [Natural Language Processing Suite](https://github.com/TheJegede/NaturalLanguageProcessing)
+**Comprehensive NLP projects covering multiple techniques**
+- 🔹 **Named Entity Recognition**: POS tagging, entity extraction (47,959 sentences)
+- 🔹 **Sentiment Analysis**:  VADER-based analysis on Amazon reviews
+- 🔹 **Spam Detection**: Email classification with 93% accuracy (10,899 emails)
+- 🔹 **Sequence Modeling**: RNN, LSTM, GRU implementations
+- 🔹 **Topic Modeling**: LDA, NMF, clustering on ABC News headlines
+- 🔹 **Tech Stack**: Python, NLTK, TensorFlow, Keras, Scikit-learn
+
+### 🤖 [Machine Learning Projects](https://github.com/TheJegede/Machine-Learning-Projects)
+**Collection of end-to-end ML solutions**
+- 🔹 Predictive modeling and classification algorithms
+- 🔹 Feature engineering and model optimization
+- 🔹 Real-world dataset applications
+- 🔹 **Tech Stack**:  Jupyter Notebook, Scikit-learn, Pandas, NumPy
+
+### 📊 [Exploratory Data Analysis Portfolio](https://github.com/TheJegede/Exploratory-Data-Analysis)
+**Comprehensive statistical analysis and visualization projects**
+- 🔹 **Titanic Survival Prediction**: Association rule mining (97.2% accuracy for 1st class females)
+- 🔹 **Regression Analysis**: Album sales prediction (R² = 0.617)
+- 🔹 **Classification Models**: Income prediction with Decision Trees & Naive Bayes
+- 🔹 **Statistical Techniques**: Outlier detection, correlation analysis, central tendency
+- 🔹 **Power BI Dashboards**: Interactive visualization examples
+- 🔹 **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Statsmodels, Power BI
+
+### 📈 [Advanced Data Analysis with R](https://github.com/TheJegede/Advanced-Data-Analysis-with-R)
+**Statistical computing and advanced analytics using R**
+- 🔹 Complex statistical modeling
+- 🔹 Data manipulation with tidyverse
+- 🔹 Advanced visualization techniques
+- 🔹 **Tech Stack**: R, RStudio, ggplot2
+
+### 💾 [Data Management with SQL & Power BI](https://github.com/TheJegede/Data-Management-with-SQL-and-PowerBI)
+**Database design and business intelligence solutions**
+- 🔹 SQL query optimization
+- 🔹 Database normalization and design
+- 🔹 Interactive Power BI dashboards
+- 🔹 **Tech Stack**: SQL, Power BI, Database Management
+
+### 🎓 [Student Feedback System](https://github.com/TheJegede/StudentFeedbackSystem)
+**Web-based feedback collection and analysis platform**
+- 🔹 Full-stack web application
+- 🔹 Responsive design with modern UI
+- 🔹 **Tech Stack**: HTML (32.4%), CSS (39.9%), JavaScript (27.7%)
+
+### 👨‍🎓 [Student Data Management](https://github.com/TheJegede/StudentData)
+**Web application for student record management**
+- 🔹 CRUD operations for student records
+- 🔹 Clean, intuitive interface
+- 🔹 **Tech Stack**: HTML (70%), JavaScript (30%)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheJegede&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJegede&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJegede&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel. app/graph?username=TheJegede&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel. app/?username=TheJegede&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 Professional Experience Highlights
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Data Analysis
+10+ projects completed  
+Advanced statistical modeling  
+Business intelligence solutions
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 AI/ML Engineering
+NLP systems development  
+Deep learning implementations  
+Production-ready AI agents
+
+</td>
+<td width="33%" align="center">
+
+### ☁️ Cloud Computing
+AWS re:Invent 2025 attendee  
+Serverless architecture  
+Scalable deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/TheJegede" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="http://www.linkedin.com/in/taiwo-jegede" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jegedetaiwo95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 📈 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Focus
+- 🔸 **GenAI Development**: Building LLM-powered applications
+- 🔸 **Cloud Architecture**: Designing scalable AWS solutions
+- 🔸 **NLP Research**: Yoruba language image captioning
+- 🔸 **Healthcare Analytics**: Medical data insights
+- 🔸 **Supply Chain AI**: Intelligent negotiation systems
+
+</td>
+<td width="50%">
+
+### 🚀 Expertise
+- 🔹 **Data Science**: EDA, Statistical Modeling, Predictive Analytics
+- 🔹 **Machine Learning**: Classification, Regression, Clustering
+- 🔹 **Deep Learning**: Neural Networks, RNN, LSTM, Transformers
+- 🔹 **NLP**: Sentiment Analysis, NER, Topic Modeling
+- 🔹 **Full Stack**: API Development, Web Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Technical Specializations
+
+### 🧠 Natural Language Processing
+```
+✓ Text Preprocessing & Cleaning       ✓ Sentiment Analysis (VADER)
+✓ Named Entity Recognition (NER)     ✓ Topic Modeling (LDA, NMF)
+✓ Text Classification                 ✓ Sequence-to-Sequence Models
+✓ Word Embeddings (Word2Vec, GloVe)   ✓ Transformer Models
+✓ Spam Detection                      ✓ Language Generation
+```
+
+### 📊 Data Analysis & Visualization
+```
+✓ Exploratory Data Analysis (EDA)    ✓ Statistical Hypothesis Testing
+✓ Regression Analysis                ✓ Time Series Analysis
+✓ Outlier Detection                  ✓ Correlation Analysis
+✓ Power BI Dashboards                ✓ Interactive Visualizations
+✓ Data Quality Assessment            ✓ Business Intelligence
+```
+
+### ☁️ Cloud & DevOps
+```
+✓ AWS Lambda Functions               ✓ AWS Amplify Hosting
+✓ AWS Bedrock (GenAI)                ✓ Serverless Architecture
+✓ CI/CD Pipelines                    ✓ Docker Containerization
+✓ Infrastructure as Code             ✓ API Gateway Integration
+```
+
+---
+
+## 💡 Recent Achievements
+
+- 🎓 **AWS re:Invent 2025** - Attended premier cloud computing conference
+- 🏆 **AI Agent Development** - Built production-ready negotiation system
+- 📊 **97.2% Accuracy** - Achieved in Titanic survival prediction using association rules
+- 🚀 **Serverless Migration** - Successfully architecting cloud-native applications
+- 📚 **Comprehensive NLP Suite** - Developed 7+ complete NLP projects with documentation
+- 🎯 **Healthcare Analytics** - Contributed to medical data management solutions
+
+---
+
+## 📖 Currently Reading & Learning
+
+- 📕 "Designing Data-Intensive Applications" - Martin Kleppmann
+- 📗 AWS Bedrock Documentation & Best Practices
+- 📘 "Speech and Language Processing" - Jurafsky & Martin
+- 📙 Advanced Prompt Engineering for LLMs
+- 📓 Serverless Architecture Patterns
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Deploy 3 production AI applications on AWS
+- [ ] Complete Yoruba Language Image Captioning System
+- [ ] Contribute to 5 major open-source NLP projects
+- [ ] Obtain AWS Machine Learning Specialty Certification
+- [ ] Publish research paper on low-resource language NLP
+- [ ] Build comprehensive healthcare analytics platform
+
+---
+
+## 💭 Philosophy
+
+> **"Data is the new oil, but insights are the refined fuel that powers intelligent decisions."**
+
+> **"Great code is like poetry - elegant, efficient, and expressive."** - Cory House
+
+> **"The best way to predict the future is to build it with AI."**
+
+---
+
+<div align="center">
+
+### 🌟 Open to Collaborations & Opportunities
+
+I'm always excited to work on: 
+- 🤝 Open-source NLP and ML projects
+- 💼 Data science consulting and analytics
+- 🚀 AI agent development and GenAI applications
+- 📊 Dashboard and visualization projects
+- ☁️ Cloud architecture and serverless solutions
+
+**Let's connect and build something amazing together!**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+### 💙 Thank you for visiting! 
+
+*Last Updated: January 2026*
 
 </div>
