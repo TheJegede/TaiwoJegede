@@ -1,7 +1,7 @@
 # Hi 👋, I'm Taiwo Jegede
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI+%26+ML+Engineer;Certified+Cloud+Computing+Specialist;NLP+%26+GenAI+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI+%26+ML+Engineer;Certified+Cloud+Computing+Specialist;NLP+%26+Deep+Learning+Expert;AWS+re:Invent+2025+Attendee" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,14 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Engineer**, and **Certified Cloud Computing Specialist** with hands-on experience in building intelligent systems, analyzing complex datasets, and deploying scalable cloud solutions. I specialize in Natural Language Processing, Supply Chain AI agents, and Healthcare Data Analytics.
+I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Engineer**, and **Certified Cloud Computing Specialist** with hands-on experience in building intelligent systems, analyzing complex datasets, and deploying scalable solutions. 
 
 - 🔭 **Currently Working On**: An Image Captioning System for the Yoruba Language and refining AI agents for negotiation and study assistance
 - 🌱 **Currently Learning**: AWS Bedrock (GenAI and Fine-Tuning), Advanced AWS Cloud Architectures (building on my experience at AWS re:Invent 2025), and Generative AI deployment
 - 👯 **Looking to Collaborate On**: Open-source NLP projects, Data Visualization dashboards (Tableau/Power BI), and innovative Supply Chain simulations
 - 🤝 **Seeking Help With**: Optimizing serverless deployments using AWS Lambda and Bedrock for scalable AI solutions
 - 💬 **Ask Me About**: Data Analysis (Python, SQL), Machine Learning, Natural Language Processing (NLP), Software Project Management, Supply Chain Logistics, and Healthcare Data Management
-- 📫 **Reach Me**:  [jegedetaiwo95@gmail.com](mailto:jegedetaiwo95@gmail. com)
+- 📫 **Reach Me**:  [jegedetaiwo95@gmail.com](mailto:jegedetaiwo95@gmail.com)
 - ⚡ **Fun Fact**: I believe great code is like poetry - elegant, efficient, and expressive
 
 ---
@@ -101,7 +101,7 @@ I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Eng
 
 ### AI/ML & Data Science Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00? style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
@@ -143,7 +143,7 @@ I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Eng
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75? style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
 ---
@@ -163,12 +163,12 @@ I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Eng
 - 🔹 Migrating from Streamlit to AWS Lambda + Amplify
 - 🔹 FastAPI backend for RESTful services
 - 🔹 Serverless architecture for scalability
-- 🔹 **Tech Stack**: Python, FastAPI, AWS Lambda, AWS Amplify, JavaScript
+- 🔹 **Tech Stack**:  Python, FastAPI, AWS Lambda, AWS Amplify, JavaScript
 - 🔹 **Highlights**: Comprehensive deployment documentation, CI/CD pipeline ready
 
 ### 📚 [Natural Language Processing Suite](https://github.com/TheJegede/NaturalLanguageProcessing)
 **Comprehensive NLP projects covering multiple techniques**
-- 🔹 **Named Entity Recognition**: POS tagging, entity extraction (47,959 sentences)
+- 🔹 **Named Entity Recognition**:  POS tagging, entity extraction (47,959 sentences)
 - 🔹 **Sentiment Analysis**:  VADER-based analysis on Amazon reviews
 - 🔹 **Spam Detection**: Email classification with 93% accuracy (10,899 emails)
 - 🔹 **Sequence Modeling**: RNN, LSTM, GRU implementations
@@ -222,16 +222,15 @@ I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Eng
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheJegede&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJegede&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheJegede&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJegede&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJegede&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=TheJegede&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=TheJegede&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheJegede&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
@@ -239,7 +238,9 @@ I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Eng
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel. app/?username=TheJegede&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheJegede&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3)
+
 </div>
 
 ---
@@ -286,7 +287,7 @@ Scalable deployments
   <a href="http://www.linkedin.com/in/taiwo-jegede" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jegedetaiwo95@gmail.com">
+  <a href="mailto: jegedetaiwo95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -301,7 +302,7 @@ Scalable deployments
 
 ### 🎯 Current Focus
 - 🔸 **GenAI Development**: Building LLM-powered applications
-- 🔸 **Cloud Architecture**: Designing scalable AWS solutions
+- 🔸 **Cloud Architecture**:  Designing scalable AWS solutions
 - 🔸 **NLP Research**: Yoruba language image captioning
 - 🔸 **Healthcare Analytics**: Medical data insights
 - 🔸 **Supply Chain AI**: Intelligent negotiation systems
@@ -398,7 +399,7 @@ Scalable deployments
 
 ### 🌟 Open to Collaborations & Opportunities
 
-I'm always excited to work on: 
+I'm always excited to work on:  
 - 🤝 Open-source NLP and ML projects
 - 💼 Data science consulting and analytics
 - 🚀 AI agent development and GenAI applications
@@ -411,7 +412,7 @@ I'm always excited to work on:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-### 💙 Thank you for visiting! 
+### 💙 Thank you for visiting!  
 
 *Last Updated: January 2026*
 
