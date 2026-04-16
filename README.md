@@ -175,6 +175,15 @@ I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Eng
 - 🔹 **Topic Modeling**: LDA, NMF, clustering on ABC News headlines
 - 🔹 **Tech Stack**: Python, NLTK, TensorFlow, Keras, Scikit-learn
 
+### 📉 [Customer Churn Prediction](https://github.com/TheJegede/Customer_ChurnPred) · [Live Demo](https://whychurn.streamlit.app/)
+**End-to-end ML pipeline for identifying at-risk telecom customers**
+- 🔹 Processes ~7,000 IBM Telco customer records with domain-driven feature engineering (29 final features)
+- 🔹 Tuned XGBoost via Optuna hyperparameter search; **0.808 recall** and **0.848 AUC-ROC** on test data
+- 🔹 MLflow experiment tracking for full reproducibility; Docker containerized deployment
+- 🔹 CI/CD via GitHub Actions (pytest + ruff linting on every push); 36-test suite
+- 🔹 Interactive Streamlit dashboard with per-customer churn probability and feature importance explanations
+- 🔹 **Tech Stack**: Python, XGBoost, LightGBM, Optuna, MLflow, Streamlit, Plotly, Docker, GitHub Actions
+
 ### 🤖 [Machine Learning Projects](https://github.com/TheJegede/Machine-Learning-Projects)
 **Collection of end-to-end ML solutions**
 - 🔹 Predictive modeling and classification algorithms
@@ -359,6 +368,7 @@ Scalable deployments
 - 🏆 **AI Agent Development** - Built production-ready negotiation system
 - 📊 **97.2% Accuracy** - Achieved in Titanic survival prediction using association rules
 - 🚀 **Serverless Migration** - Successfully architecting cloud-native applications
+- 📉 **Customer Churn Prediction** - Deployed end-to-end ML pipeline with 0.808 recall & live Streamlit dashboard
 - 📚 **Comprehensive NLP Suite** - Developed 7+ complete NLP projects with documentation
 - 🎯 **Healthcare Analytics** - Contributed to medical data management solutions
 
