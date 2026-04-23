@@ -1,0 +1,9 @@
+name            = "portfolio-chatbot"
+main            = "index.js"
+compatibility_date = "2024-09-23"
+
+# Secrets (set via CLI, never committed):
+#   wrangler secret put GEMINI_API_KEY
+#   wrangler secret put GROQ_API_KEY
+#
+# After deploying, paste the Worker URL into assets/js/chatbot.js → WORKER_URL

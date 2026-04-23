@@ -407,5 +407,58 @@
 
     <script src="assets/js/main.js"></script>
     <script src="assets/js/spider-cursor.js"></script>
+
+    <!-- AI Portfolio Assistant -->
+    <div id="chat-widget" aria-label="Portfolio Assistant">
+
+      <button id="chat-bubble" aria-expanded="false" aria-controls="chat-panel" title="Chat with Taiwo's AI Assistant">
+        <i class="ph ph-chat-circle-dots" id="chat-icon-open"></i>
+        <i class="ph ph-x" id="chat-icon-close" style="display:none"></i>
+        <span class="chat-badge" id="chat-badge" aria-label="1 new">1</span>
+      </button>
+
+      <div id="chat-panel" role="dialog" aria-label="Taiwo's AI Portfolio Assistant" hidden>
+
+        <div class="chat-header">
+          <div class="chat-header-left">
+            <div class="chat-avatar">TJ</div>
+            <div>
+              <div class="chat-title">Taiwo's AI Assistant</div>
+              <div class="chat-subtitle">
+                <span class="chat-status-dot"></span>Powered by Gemini &amp; Groq
+              </div>
+            </div>
+          </div>
+          <button id="chat-close-btn" aria-label="Close chat"><i class="ph ph-x"></i></button>
+        </div>
+
+        <div id="chat-messages" role="log" aria-live="polite" aria-label="Chat messages"></div>
+
+        <div id="chat-suggestions" aria-label="Suggested questions">
+          <button class="chip" data-q="What AWS services has Taiwo worked with hands-on?">AWS experience</button>
+          <button class="chip" data-q="What was Taiwo's biggest technical achievement?">Key achievement</button>
+          <button class="chip" data-q="Is Taiwo available to start immediately?">Availability</button>
+          <button class="chip" data-q="What industries has Taiwo worked in?">Industries</button>
+        </div>
+
+        <form id="chat-form" autocomplete="off">
+          <div class="chat-input-row">
+            <input
+              type="text"
+              id="chat-input"
+              placeholder="Ask about Taiwo's background…"
+              maxlength="500"
+              aria-label="Type your question"
+            />
+            <button type="submit" id="chat-send" aria-label="Send message">
+              <i class="ph ph-paper-plane-tilt"></i>
+            </button>
+          </div>
+        </form>
+
+      </div>
+    </div>
+
+    <script src="assets/js/chatbot.js"></script>
 </body>
 </html>
