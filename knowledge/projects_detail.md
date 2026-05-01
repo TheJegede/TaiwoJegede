@@ -101,3 +101,59 @@ GitHub: github.com/TheJegede/Customer_ChurnPred
 **Sequence Modeling:** Implemented RNN, LSTM, and GRU from scratch to compare architectures on sequence classification tasks.
 
 GitHub: github.com/TheJegede/NaturalLanguageProcessing
+
+## Enrollment Decline & Demographic Shift AI System
+
+**Problem:** US higher education faces a structural enrollment crisis — the number of 18-year-olds peaked in 2025 and will decline for a decade (the "demographic cliff"). Composition is also shifting: White enrollment projected −38% by 2035, Hispanic +8%, Asian +16%, TwoOrMore +23%.
+
+**Three integrated modules:**
+
+**Module 1 — Demographic Forecasting:** SARIMA vs Prophet models trained on 1980–2017 NCES data, held out 2018–2023. SARIMA wins with 3.9% MAPE; Prophet over-predicts growth. Outputs 80% + 95% CI projections to 2035 by race/ethnicity and census region.
+
+**Module 2 — Lead & Yield Prediction:** Two XGBoost classifiers on 50K synthetic applicants (calibrated to IPEDS). Lead model: ROC-AUC 0.665. Yield model: ROC-AUC 0.713. Platt-scaled calibration, SHAP top-3 explanations per prediction. Mandatory bias audit — first-gen applicants flagged (DI ratio 0.74), threshold lowered 0.50 → 0.47 to close parity gap from 2.6pp to 0.1pp.
+
+**Module 3 — RAG Admissions Chatbot:** 3,040 chunks from 250 ASU admissions pages, embedded with all-MiniLM-L6-v2, stored in ChromaDB, generated with Groq llama-3.1-8b-instant. Trick-refusal rate: 5/5 (100%). Mean latency 5.2s on free tier.
+
+**Simulated impact:** 3pp yield improvement → ~150 additional enrollments/year at a 5K-student institution → $4.5M annual tuition revenue.
+
+**Stack:** Python, Streamlit, Prophet, statsmodels SARIMA, scikit-learn, XGBoost, SMOTE, SHAP, sentence-transformers, ChromaDB, LangChain, Groq API, Plotly, NCES/IPEDS data.
+
+Live demo: enrollementdecline.streamlit.app | GitHub: github.com/TheJegede/EnrollementDecline
+
+## Student Attrition & Retention AI System
+
+**Problem:** Universities lack early warning — formal academic warnings come too late. Students have already disengaged weeks before. This system detects risk signals 6–8 weeks before any official intervention using behavioral data from the Open University Learning Analytics Dataset (OULAD).
+
+**Dataset:** OULAD — ~32K student records across 7 CSV files, CC BY 4.0 licensed. Features engineered from VLE interaction logs: days_since_last_vle, submission_count_w6, avg_score_w6, early_submission_days, studied_credits.
+
+**Model:** Calibrated XGBoost classifier.
+- F1 Score: 0.6575 (withdrawal prediction)
+- ROC-AUC: 0.8444
+- Precision: 0.782 | Recall: 0.567
+- SHAP explainability — top-3 features surfaced per at-risk student
+
+**Deliverable:** Four-page Streamlit advisor dashboard — risk scores (0–100), at-risk student lists, individual student profiles with SHAP explanations, model performance metrics.
+
+**Pipeline:** 5 sequential Jupyter notebooks (EDA → feature engineering → modeling → explainability → bias audit) before dashboard launch.
+
+**Stack:** Python, scikit-learn, XGBoost, SHAP, Streamlit, imbalanced-learn, OULAD dataset.
+
+Live demo: studentretentionsystem.streamlit.app | GitHub: github.com/TheJegede/StudentRetentionSystem
+
+## Student Mental Health Early-Warning AI System
+
+**Problem:** Campus counseling centers are overwhelmed. This system acts as an AI-assisted triage tool — it flags students whose behavioral patterns or written text suggest reduced wellbeing, so coordinators can prioritize outreach. Explicitly NOT a clinical tool. Requires IRB approval and clinical board review for real deployment.
+
+**Three components:**
+
+**Behavioral Risk Classifier:** XGBoost model trained on 30K synthetic rows calibrated to Healthy Minds Study distributions. Flags students showing at-risk behavioral patterns. SHAP explainability throughout.
+
+**NLP Distress Detector:** Three-layer classifier using DAIC-WOZ + eRisk academic datasets. Scores written text for distress signals. Word-level explainability via LIME. Models: DistilBERT and RoBERTa.
+
+**Crisis-Aware Chatbot:** Groq/Llama 3.1-powered resource navigator. Architecture enforces a crisis keyword detection layer that executes FIRST — before any other processing, non-negotiably. Knowledge base: 36 markdown documents across 6 topic areas, UCLA CAPS as canonical reference, national crisis resources included. Vector store: ChromaDB. Output filtered to prevent clinical language; responses stay resource-focused.
+
+**Ethics:** System does not diagnose. All data is synthetic — no real PII. Real deployment requires IRB approval and pilot validation.
+
+**Stack:** Python 3.11, Streamlit, XGBoost, SHAP, LIME, DistilBERT, RoBERTa, ChromaDB, Groq API, uv package manager.
+
+Live demo: mental-health-application.streamlit.app | GitHub: github.com/TheJegede/Mental-Health-Application

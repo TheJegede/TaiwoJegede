@@ -51,16 +51,23 @@ def chunk_markdown(text, source, max_words=MAX_WORDS, overlap=OVERLAP):
     return chunks
 
 
-def embed_one(text, api_key):
+def embed_one(text, api_key, retries=5):
     payload = {
         'model': EMBED_MODEL,
         'content': {'parts': [{'text': text}]},
         'taskType': 'RETRIEVAL_DOCUMENT',
     }
-    res = requests.post(EMBED_URL, params={'key': api_key}, json=payload)
-    if not res.ok:
+    for attempt in range(retries):
+        res = requests.post(EMBED_URL, params={'key': api_key}, json=payload)
+        if res.ok:
+            return res.json()['embedding']['values']
+        if res.status_code == 429:
+            wait = 60 * (attempt + 1)
+            print(f'\n  Rate limited — waiting {wait}s...', end='', flush=True)
+            time.sleep(wait)
+            continue
         raise RuntimeError(f'Gemini embed failed: {res.status_code} {res.text}')
-    return res.json()['embedding']['values']
+    raise RuntimeError('Gemini embed failed: exceeded retry limit on 429')
 
 
 def main():
@@ -91,8 +98,7 @@ def main():
         raw = embed_one(text, api_key)
         all_chunks[i]['embedding'] = [round(v, 5) for v in raw]
         print(f'\r  Embedded {i + 1}/{len(texts)} chunks', end='', flush=True)
-        if (i + 1) % 10 == 0:
-            time.sleep(0.5)  # gentle rate limiting every 10 calls
+        time.sleep(0.7)  # ~85 req/min, safely under free-tier 100/min limit
     print()
 
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
