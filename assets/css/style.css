@@ -1147,6 +1147,14 @@ textarea.form-control {
 #chat-send:hover  { transform: scale(1.08); box-shadow: 0 0 12px var(--accent-glow); }
 #chat-send:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
 
+.form-status {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  min-height: 1.4em;
+}
+.form-status.success { color: #4ade80; }
+.form-status.error   { color: #f87171; }
+
 /* --- Mobile --- */
 @media (max-width: 768px) {
   #chat-widget { bottom: 1rem; right: 1rem; }

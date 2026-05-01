@@ -419,7 +419,7 @@
                 <h2>Let's Get In Touch!</h2>
                 <p>Have an exciting project, a role to discuss, or just want to connect? I'd love to hear from you!</p>
                 
-                <form class="contact-form" action="#" method="POST" onsubmit="event.preventDefault(); alert('We need to connect a backend service (like Formspree) to send this message!');">
+                <form id="contact-form" class="contact-form" action="https://formspree.io/f/xbdwllng" method="POST">
                     <div class="form-group">
                         <label for="name">Your Name</label>
                         <input type="text" id="name" name="name" class="form-control" placeholder="John Doe" required>
@@ -433,6 +433,7 @@
                         <textarea id="message" name="message" class="form-control" placeholder="How can I help you?" required></textarea>
                     </div>
                     <button type="submit" class="btn"><i class="ph-fill ph-paper-plane-right"></i> Send Message</button>
+                    <div id="form-status" class="form-status" aria-live="polite"></div>
                 </form>
             </div>
 

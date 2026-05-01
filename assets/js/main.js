@@ -102,4 +102,38 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  // Contact form — AJAX Formspree submission
+  const contactForm = document.getElementById('contact-form');
+  if (contactForm) {
+    contactForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const btn = contactForm.querySelector('button[type="submit"]');
+      const status = document.getElementById('form-status');
+      btn.disabled = true;
+      btn.innerHTML = '<i class="ph-fill ph-paper-plane-right"></i> Sending…';
+      status.textContent = '';
+      status.className = 'form-status';
+      try {
+        const res = await fetch(contactForm.action, {
+          method: 'POST',
+          body: new FormData(contactForm),
+          headers: { Accept: 'application/json' },
+        });
+        if (res.ok) {
+          status.textContent = "✓ Message sent! I'll get back to you soon.";
+          status.className = 'form-status success';
+          contactForm.reset();
+        } else {
+          throw new Error('non-ok');
+        }
+      } catch {
+        status.textContent = 'Something went wrong. Email jegedetaiwo95@gmail.com directly.';
+        status.className = 'form-status error';
+      } finally {
+        btn.disabled = false;
+        btn.innerHTML = '<i class="ph-fill ph-paper-plane-right"></i> Send Message';
+      }
+    });
+  }
+
 });

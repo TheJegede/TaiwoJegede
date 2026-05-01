@@ -5,3 +5,4 @@ scripts/.env
 worker/.env
 placeholder_info.md
 worker/.wrangler/
+.wrangler/
