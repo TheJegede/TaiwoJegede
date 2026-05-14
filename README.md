@@ -1,7 +1,7 @@
 # Hi 👋, I'm Taiwo Jegede
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI+%26+ML+Engineer;Certified+Cloud+Computing+Specialist;NLP+%26+Deep+Learning+Expert;AWS+re:Invent+2025+Attendee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI+%26+ML+Engineer;Certified+Cloud+Computing+Specialist;Building+Intelligent+AI+Agents;Passionate+about+NLP+%26+Cloud+Architecture" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Engineer**, and **Certified Cloud Computing Specialist** with hands-on experience in building intelligent systems, analyzing complex datasets, and deploying scalable solutions. 
+I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Engineer**, and **Certified Cloud Computing Specialist** with hands-on experience in building intelligent systems, analyzing complex datasets, and architecting cloud solutions.
 
 - 🔭 **Currently Working On**: An Image Captioning System for the Yoruba Language and refining AI agents for negotiation and study assistance
 - 🌱 **Currently Learning**: AWS Bedrock (GenAI and Fine-Tuning), Advanced AWS Cloud Architectures (building on my experience at AWS re:Invent 2025), and Generative AI deployment
@@ -149,6 +149,22 @@ I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Eng
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 [Mental Health Application](https://github.com/TheJegede/Mental-Health-Application)
+**Clinical-adjacent signal analysis system**
+- 🔹 Operates on sensitive signals where false positives/negatives cause real harm
+- 🔹 Rigorous evaluation and data modeling
+- 🔹 **Tech Stack**: Jupyter Notebook, Python
+
+### 🎙️ [Transcript 2.0](https://github.com/TheJegede/Transcript-2.0)
+**AI-powered transcription and processing tool**
+- 🔹 Full-stack application/pipeline for handling transcripts
+- 🔹 **Tech Stack**: Python, Jupyter Notebook, JavaScript, HTML, CSS
+
+### ⚡ [AI Chatbot Lambda Functions](https://github.com/TheJegede/LambdaFunctions)
+**Serverless backend for AI chatbot operations**
+- 🔹 Contains the AWS Lambda functions powering the AI chatbot
+- 🔹 **Tech Stack**: Python, AWS Serverless
 
 ### 🤖 [AI Negotiation Agent](https://github.com/TheJegede/TheAINegotiator)
 **An intelligent AI agent designed for supply chain negotiations**
@@ -424,6 +440,6 @@ I'm always excited to work on:
 
 ### 💙 Thank you for visiting!  
 
-*Last Updated: January 2026*
+*Last Updated: May 2026*
 
 </div>
