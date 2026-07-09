@@ -9,7 +9,7 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@700&family=Fira+Code&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@600;700;800&family=Fira+Code&display=swap" rel="stylesheet">
     
     <!-- Icons (Phosphor Icons) -->
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
@@ -37,17 +37,39 @@
 
     <!-- Hero Section -->
     <section id="hero" class="hero">
-        <div class="container hero-content">
-            <h1 class="hero-title">Hi 👋, I'm <span>Taiwo Jegede</span></h1>
-            <div class="typing-container" id="typing-text"></div>
-            
-            <div class="hero-socials">
-                <a href="https://github.com/TheJegede" target="_blank" aria-label="GitHub"><i class="ph ph-github-logo"></i></a>
-                <a href="https://www.linkedin.com/in/taiwo-jegede" target="_blank" aria-label="LinkedIn"><i class="ph ph-linkedin-logo"></i></a>
-                <a href="mailto:jegedetaiwo95@gmail.com" aria-label="Email"><i class="ph ph-envelope-simple"></i></a>
+        <div class="container hero-layout">
+            <div class="hero-copy">
+                <p class="hero-kicker">Taiwo Jegede</p>
+                <h1 class="hero-title">AI systems for data-heavy decisions.</h1>
+                <p class="hero-subtitle">RAG, cloud deployment, NLP, and analytics products built with evidence, safety, and measurable outcomes.</p>
+                <div class="typing-container" id="typing-text"></div>
+
+                <div class="hero-actions">
+                    <a href="#projects" class="btn"><i class="ph ph-squares-four"></i> View Projects</a>
+                    <a href="#contact" class="btn btn-secondary"><i class="ph ph-paper-plane-tilt"></i> Contact Me</a>
+                </div>
+
+                <div class="hero-socials">
+                    <a href="https://github.com/TheJegede" target="_blank" aria-label="GitHub"><i class="ph ph-github-logo"></i></a>
+                    <a href="https://www.linkedin.com/in/taiwo-jegede" target="_blank" aria-label="LinkedIn"><i class="ph ph-linkedin-logo"></i></a>
+                    <a href="mailto:jegedetaiwo95@gmail.com" aria-label="Email"><i class="ph ph-envelope-simple"></i></a>
+                </div>
             </div>
-            
-            <a href="#about" class="btn" style="margin-top: 3rem; animation: fadeUp 1s ease 0.6s forwards; opacity: 0;"><i class="ph ph-arrow-down"></i> Explore My Work</a>
+
+            <div class="hero-visual" aria-label="Taiwo Jegede portrait and work highlights">
+                <div class="portrait-card glass glass-card">
+                    <img src="./Pinpoint_DSCF6362.jpg" alt="Taiwo Jegede" />
+                </div>
+                <div class="proof-panel glass">
+                    <span>Portfolio focus</span>
+                    <strong>Applied AI, RAG, cloud, analytics</strong>
+                </div>
+                <div class="proof-grid">
+                    <div class="proof-chip"><strong>4+</strong><span>years</span></div>
+                    <div class="proof-chip"><strong>AWS</strong><span>certified</span></div>
+                    <div class="proof-chip"><strong>23%</strong><span>ROI lift</span></div>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -227,7 +249,37 @@
     <section id="projects" class="container animate-on-scroll">
         <h2>Featured Projects</h2>
         <div class="projects-grid">
-            
+
+            <div class="glass glass-card project-card project-card--featured">
+                <div class="project-header">
+                    <i class="ph-fill ph-plant project-icon"></i>
+                    <div class="project-links">
+                        <a href="https://agroadvisor-eta.vercel.app/" target="_blank" title="Live Demo"><i class="ph ph-arrow-square-out"></i></a>
+                        <a href="https://github.com/TheJegede/AgroAdvisorAR" target="_blank" title="GitHub Repository"><i class="ph ph-github-logo"></i></a>
+                    </div>
+                </div>
+                <h3 class="project-title">AgroAdvisor AR</h3>
+                <p class="project-desc">Bilingual RAG agricultural advisory platform for Arkansas farmers, grounding rice, soybean, poultry, and spray-compliance guidance in Extension documents, live soil data, weather context, and citation safeguards.</p>
+                <div class="project-tech">
+                    <span>React 19</span> <span>FastAPI</span> <span>Pinecone</span> <span>Supabase</span> <span>Groq</span> <span>Gemini</span>
+                </div>
+            </div>
+
+            <div class="glass glass-card project-card project-card--featured">
+                <div class="project-header">
+                    <i class="ph-fill ph-seal-check project-icon"></i>
+                    <div class="project-links">
+                        <a href="https://app.goalwright.com/" target="_blank" title="Live Pilot"><i class="ph ph-arrow-square-out"></i></a>
+                        <a href="https://github.com/TheJegede/Goalwright" target="_blank" title="GitHub Repository"><i class="ph ph-github-logo"></i></a>
+                    </div>
+                </div>
+                <h3 class="project-title">Goalwright</h3>
+                <p class="project-desc">AI-assisted IEP documentation product with RAG-grounded drafting, deterministic federal and state validation, local PII redaction, audit logging, human review gates, and .docx export for special-education teams.</p>
+                <div class="project-tech">
+                    <span>FastAPI</span> <span>React</span> <span>TypeScript</span> <span>Gemini</span> <span>SQLCipher</span> <span>sqlite-vec</span>
+                </div>
+            </div>
+
             <div class="glass glass-card project-card">
                 <div class="project-header">
                     <i class="ph-fill ph-robot project-icon"></i>
@@ -308,7 +360,7 @@
                     </div>
                 </div>
                 <h3 class="project-title">Enrollment Decline AI System</h3>
-                <p class="project-desc">Three AI modules tackling the 2025 higher-ed demographic cliff — SARIMA/Prophet forecasting, XGBoost lead & yield prediction with bias audit, and a RAG admissions chatbot with 100% trick-refusal rate.</p>
+                <p class="project-desc">Three AI modules tackling the 2025 higher-ed demographic cliff: SARIMA/Prophet forecasting, XGBoost lead and yield prediction with bias audit, and a RAG admissions chatbot with 100% trick-refusal rate.</p>
                 <div class="project-tech">
                     <span>Python</span> <span>Streamlit</span> <span>SARIMA</span> <span>XGBoost</span> <span>SHAP</span> <span>ChromaDB</span> <span>Groq</span>
                 </div>
@@ -323,7 +375,7 @@
                     </div>
                 </div>
                 <h3 class="project-title">Student Retention AI System</h3>
-                <p class="project-desc">Identifies at-risk students 6–8 weeks before formal academic warnings using behavioral signals from 32K OULAD records. Calibrated XGBoost achieves 0.844 AUC-ROC with SHAP-explained advisor dashboard.</p>
+                <p class="project-desc">Identifies at-risk students 6-8 weeks before formal academic warnings using behavioral signals from 32K OULAD records. Calibrated XGBoost achieves 0.844 AUC-ROC with SHAP-explained advisor dashboard.</p>
                 <div class="project-tech">
                     <span>Python</span> <span>XGBoost</span> <span>SHAP</span> <span>Streamlit</span> <span>scikit-learn</span>
                 </div>
