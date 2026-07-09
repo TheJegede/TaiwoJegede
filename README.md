@@ -150,6 +150,20 @@ I'm **Taiwo Jegede**, a passionate **Data Analyst**, **AI & Machine Learning Eng
 
 ## 🚀 Featured Projects
 
+### 🌾 [AgroAdvisor AR](https://github.com/TheJegede/AgroAdvisorAR) · [Live Demo](https://agroadvisor-eta.vercel.app/)
+**Bilingual RAG agricultural advisory platform for Arkansas farmers**
+- 🔹 Grounds rice, soybean, poultry, and spray-compliance guidance in Extension documents
+- 🔹 Combines live soil data, weather context, citations, and safety guardrails for farmer-facing answers
+- 🔹 Built as a production-style full-stack AI assistant with retrieval, auth-ready data services, and LLM generation
+- 🔹 **Tech Stack**: React 19, FastAPI, Pinecone, Supabase, Groq, Gemini
+
+### 🎯 [Goalwright](https://github.com/TheJegede/Goalwright) · [Live Pilot](https://app.goalwright.com/)
+**AI-assisted IEP documentation product for special-education teams**
+- 🔹 Uses RAG-grounded drafting plus deterministic federal and state validation checks
+- 🔹 Includes local PII redaction, audit logging, human review gates, and `.docx` export workflows
+- 🔹 Designed around compliance-aware drafting support, not unchecked automation
+- 🔹 **Tech Stack**: FastAPI, React, TypeScript, Gemini, SQLCipher, sqlite-vec
+
 ### 🧠 [Mental Health Application](https://github.com/TheJegede/Mental-Health-Application)
 **Clinical-adjacent signal analysis system**
 - 🔹 Operates on sensitive signals where false positives/negatives cause real harm
@@ -327,6 +341,7 @@ Scalable deployments
 
 ### 🎯 Current Focus
 - 🔸 **GenAI Development**: Building LLM-powered applications
+- 🔸 **RAG Products**: Shipping retrieval-grounded assistants for agriculture and education workflows
 - 🔸 **Cloud Architecture**:  Designing scalable AWS solutions
 - 🔸 **NLP Research**: Yoruba language image captioning
 - 🔸 **Healthcare Analytics**: Medical data insights
@@ -380,6 +395,8 @@ Scalable deployments
 
 ## 💡 Recent Achievements
 
+- 🌾 **AgroAdvisor AR** - Built bilingual RAG agricultural assistant with Extension-document grounding, live context, and citation safeguards
+- 🎯 **Goalwright** - Built AI-assisted IEP documentation workflow with RAG drafting, validation, redaction, audit logging, and `.docx` export
 - 🎓 **AWS re:Invent 2025** - Attended premier cloud computing conference
 - 🏆 **AI Agent Development** - Built production-ready negotiation system
 - 📊 **97.2% Accuracy** - Achieved in Titanic survival prediction using association rules
@@ -440,6 +457,6 @@ I'm always excited to work on:
 
 ### 💙 Thank you for visiting!  
 
-*Last Updated: May 2026*
+*Last Updated: July 2026*
 
 </div>
