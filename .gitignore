@@ -4,5 +4,6 @@ CLAUDE.md
 scripts/.env
 worker/.env
 placeholder_info.md
+PRODUCT.md
 worker/.wrangler/
 .wrangler/
